@@ -8,7 +8,7 @@
 
 直接敲击 ./text_copied.sh  你要破解的文件[夹]  破解后输出的文件[夹], 如敲击：**text_copied.sh /home/work/my_dir /home/my_dir2**
 
-# 2、文件导出工具(防it监测)---text_copied.sh
+# 2、文件导出工具(防it监测)---encrypt_file.sh
 
 ## 使用方法:
 
