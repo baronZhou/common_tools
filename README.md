@@ -1,5 +1,6 @@
 **以下工具仅以学习为目的. 请遵守公司法律** 
 
+@[TOC]
 
 #### 1、copy_files - 亿赛通破解工具
 
@@ -16,7 +17,7 @@
 
 直接敲击 ./text_copied.sh  你要破解的文件[夹]  破解后输出的文件[夹], 如敲击：**text_copied.sh /home/work/my_dir /home/my_dir2**
 
-- ** encrypt_file.sh： ** :smile:  将压缩包按照自己的密钥再次加密，拷贝到自己电脑上后使用自己的密钥进行解密
+- ** encrypt_file.sh：** :smile:  将压缩包按照自己的密钥再次加密，拷贝到自己电脑上后使用自己的密钥进行解密
 
 （1）、将您要导出的文件夹压缩，如 **tar cvzf my_dir.tar.gz my_dir**
 
